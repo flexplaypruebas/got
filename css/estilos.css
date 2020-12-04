@@ -31,13 +31,13 @@ header .ul li a:hover {
 
 /* ======================> logo  <====================== */
 
-.logo h1 {
+h1 {
     margin-left: 40px;
     color: white;
     cursor: none;
 }
 
-.logo i {
+i {
     color: rgb(240, 184, 82);
 }
 
